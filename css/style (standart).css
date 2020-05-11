@@ -1450,7 +1450,7 @@
 
 .about-us-map-button {
 	position: absolute;
-	z-index: 3;
+	z-index: 2;
 
 	display: inline-block;
 
@@ -1461,11 +1461,6 @@
 	border: none;
 
 	cursor: pointer;
-}
-
-.about-us-map-google {
-	position: absolute;
-	z-index: 2;
 }
 
 .about-us-map-img {
